@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gombosc/React-TicTacToe/static/css/main.7bd35d37.css",
+    "main.js": "/gombosc/React-TicTacToe/static/js/main.714f5ede.js",
+    "index.html": "/gombosc/React-TicTacToe/index.html",
+    "main.7bd35d37.css.map": "/gombosc/React-TicTacToe/static/css/main.7bd35d37.css.map",
+    "main.714f5ede.js.map": "/gombosc/React-TicTacToe/static/js/main.714f5ede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd35d37.css",
+    "static/js/main.714f5ede.js"
+  ]
+}
